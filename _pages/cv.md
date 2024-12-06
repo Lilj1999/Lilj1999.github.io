@@ -42,7 +42,7 @@ Experience
 
 * **Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil**
   *  Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water. This structured hydrogen bonding network leads to unique physicochemical features of soil water, such as higher density and viscosity. However, accurately detecting the HB network water in soils remains challenging. In this work, vibrational spectroscopy, i.e., infrared spectroscopy and Raman spectroscopy, is employed to probe pore water structures in soils within a drying-wetting cycle. The obtained spectra are used to quantitatively characterize the water content, density, and viscosity evolution of adsorbed water in soils.
-
+![pinn](http://Lilj1999.github.io/images/Infrared.jpg)
 <center>More details will be posted in an official release. </center>
 
 * **Molecular simulation of water adsorbed on mineral**
