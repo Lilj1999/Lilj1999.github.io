@@ -30,9 +30,6 @@ Publication
 
 2. **Li, L.**, Zhang, C.\*, Hu, S. 2024. Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil. *Geotechnique* (under review).
 
-3. Zhang, C., **L. Li**,  Or, D\*, et al., 2024. Interactions with Soil Surfaces Contribute to Evapotranspiration partitioning. *Nature* (under consideration).
-
-
 
 \*:Supervisor 
 
@@ -41,25 +38,24 @@ Experience
 * **Physical origins and significance of adsorption heat**
   * Adsorption heat is a cornerstone concept underpinning almost all the existing theoretical isotherms for porous media. However, it remains elusive what this concept stands for and the physical sources for it. This work elucidated the physical origins of the adsorption heat with the aid of the law of mass action, facilitating the establishment of a two-parameter sorption isotherm equation theoretically converted to two widely used adsorption isotherm equations.
 ![pinn](http://Lilj1999.github.io/images/AdsorptionHeatFig1.png)
-<center> Illustration of the spatially varying external chemical potential (-μext) in an adsorption system. More details will be posted in an official release. </center>
+<center> Illustration of the spatially varying external chemical potential (-μext) in an adsorption system. </center>
 
+* **Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil**
+  *  Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water. This structured hydrogen bonding network leads to unique physicochemical features of soil water, such as higher density and viscosity. However, accurately detecting the HB network water in soils remains challenging. In this work, vibrational spectroscopy, i.e., infrared spectroscopy and Raman spectroscopy, is employed to probe pore water structures in soils within a drying-wetting cycle. The obtained spectra are used to quantitatively characterize the water content, density, and viscosity evolution of adsorbed water in soils.
 
-* **Heterogeneous ice nucleation of salt solution in porous media**
-  * To date, the freezing temperature depression behavior of the solution in porous media remains elusive which physical mechanism accounts for its freezing temperature and how dissolved ions affect it. This work designed a series of pore-scale experiments to investigate the freezing temperature of salt solutions in tubes with varying pore diameters, pore solution volumes, solid-liquid interface areas, ion concentrations, and ion types.
-<img src="http://Lilj1999.github.io/images/Freezing.gif" width="1000" />
+<center>More details will be posted in an official release. </center>
 
 * **Molecular simulation of water adsorbed on mineral**
   * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network density of adsorptive water in soils remains challenging. This work aims to utilize molecular simulation to quantitatively characterize the amount and density evolution of adsorbed water in soils within a drying-wetting cycle.
 <img src="http://Lilj1999.github.io/images/MD.gif" width="800" />
 
-* **Modeling of the nonlinear wave propagation by physics-informed neural networks**
-  * High-energy waves induce nonlinear behaviors, such as thermal effects, in wave propagation. Accurately modeling these complex physical phenomena necessitates coupling multiple partial differential equations into a comprehensive framework, complicating both the establishment and solution of these equations. This study seeks to develop a solution incorporating these coupled effects using physics-informed neural networks.
+* **Heterogeneous ice nucleation of salt solution in porous media**
+  * To date, the freezing temperature depression behavior of the solution in porous media remains elusive which physical mechanism accounts for its freezing temperature and how dissolved ions affect it. This work designed a series of pore-scale experiments to investigate the freezing temperature of salt solutions in tubes with varying pore diameters, pore solution volumes, solid-liquid interface areas, ion concentrations, and ion types.
+<img src="http://Lilj1999.github.io/images/Freezing.gif" width="1000" />
 
-
-* **Effect of periodontal ligament height on orthodontic performance**
-  * Orthodontics utilizes appliances to apply force to teeth, gradually moving them to the desired positions. This process induces stress and strain in surrounding tissues including adjacent teeth, alveolar bone, and periodontal ligaments. These tissue mechanical responses affect the stability of teeth movement. Controlling the stress and strain in surrounding tissues is crucial for optimizing orthodontic outcomes. This work investigates the effect of
-periodontal ligament height on tissue’s mechanical responses under the same orthodontic treatment. It finds that lower periodontal ligament height results in higher stress on the target teeth’s periodontal ligaments, making it easier to reach the load-bearing limit.
-
+* **Structure transition of high- and low-density ice**
+  * Water confined in porous media exhibits both high- and low-density liquid forms, while ice can exist in high- and low-density amorphous phases (HDA and LDA). A longstanding debate in the literature concerns whether these amorphous ice phases correspond to two distinct liquid states. This work aims to investigate the high-to-low-density structural transition in ice confined within different saturated soils. Experimental evidence is obtained by integrating results from wide-angle X-ray scattering and differential scanning calorimetry, providing critical insights into the structural transformations under confinement.
+<img src="http://Lilj1999.github.io/images/MD.gif" width="800" />
 
 Skills
 ======
