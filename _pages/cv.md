@@ -30,6 +30,8 @@ Publication
 
 2. **Li, L.**, Zhang, C.\*, Hu, S. 2024. Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil. *Geotechnique* (under review).
 
+3. Zhang, C.\*, **Li, L.**, et al. 2024. Interactions with Soil Surfaces Contribute to Hydrologic Isotope Fractionation. *Science* (under consideration).
+
 
 \*:Supervisor 
 
@@ -41,6 +43,10 @@ Experience
 <div align="center">
 Illustration of the spatially varying external chemical potential (-μext) in an adsorption system.
 </div>
+
+* **Interactions with Soil Surfaces Contribute to Hydrologic Isotope Fractionation**
+ *  Notwithstanding its centrality in the terrestrial hydrologic cycle, soil water is practically absent in most isotope-based hydrology. Studies have shown distinctly different isotope fractionation behavior of soil water compared to bulk liquid water. Here, we show that at the microscale, the concentrations of D and 18O in soil water are depleted near particle surfaces, leading to a reduced equilibrium fractionation in soil water, that in turn, reduces the slope of soil water evaporation line relative to bulk liquid water. Integration of spatially varying soil water isotopologue concentrations from soil particle surfaces to the air-liquid phase yields a consistent framework for soil water isotope fractionation in agreement with measurements across different soil types. Additionally, this novel function is seamlessly incorporated into the classical two-source isotopic framework towards improving predictions of isotope-based partitioning of evapotranspiration. Predictions by the new framework demonstrate lower estimates of transpiration fractions compared to existing isotope-based formulations.
+
 
 * **Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil**
   *  Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water. This structured hydrogen bonding network leads to unique physicochemical features of soil water, such as higher density and viscosity. However, accurately detecting the HB network water in soils remains challenging. In this work, vibrational spectroscopy, i.e., infrared spectroscopy and Raman spectroscopy, is employed to probe pore water structures in soils within a drying-wetting cycle. The obtained spectra are used to quantitatively characterize the water content, density, and viscosity evolution of adsorbed water in soils.
