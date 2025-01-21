@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ![conference](http://Lilj1999.github.io/images/Interpore.jpg)
-<center>The photo with Alex Hansen in the InterPore annual meeting. I'm the first from the left.</center>
+<center>The photo with Alex Hansen in the InterPore annual meeting. I'm the first from the right.</center>
 
 ![conference](http://Lilj1999.github.io/images/ivanLunatiV2.jpg)
 <center>The photo with Ivan Lunati in the InterPore annual meeting.</center>
