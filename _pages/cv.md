@@ -41,30 +41,32 @@ Experience
   * Adsorption heat is a cornerstone concept underpinning almost all the existing theoretical isotherms for porous media. However, it remains elusive what this concept stands for and the physical sources for it. This work elucidated the physical origins of the adsorption heat with the aid of the law of mass action, facilitating the establishment of a two-parameter sorption isotherm equation theoretically converted to two widely used adsorption isotherm equations.
 ![pinn](http://Lilj1999.github.io/images/AdsorptionHeatFig1.png)
 <div align="center">
-Illustration of the spatially varying external chemical potential (-μext) in an adsorption system.
+
+  Illustration of the spatially varying external chemical potential (-μext) in an adsorption system.
 </div>
 
 * **Interactions with Soil Surfaces Contribute to Hydrologic Isotope Fractionation**
   * Notwithstanding its centrality in the terrestrial hydrologic cycle, soil water is practically absent in most isotope-based hydrology. Studies have shown distinctly different isotope fractionation behavior of soil water compared to bulk liquid water. Here, we show that at the microscale, the concentrations of D and 18O in soil water are depleted near particle surfaces, leading to a reduced equilibrium fractionation in soil water, that in turn, reduces the slope of soil water evaporation line relative to bulk liquid water. Integration of spatially varying soil water isotopologue concentrations from soil particle surfaces to the air-liquid phase yields a consistent framework for soil water isotope fractionation in agreement with measurements across different soil types. Additionally, this novel function is seamlessly incorporated into the classical two-source isotopic framework towards improving predictions of isotope-based partitioning of evapotranspiration. Predictions by the new framework demonstrate lower estimates of transpiration fractions compared to existing isotope-based formulations.
-<div align="center">
 <img src="http://Lilj1999.github.io/images/Isotope.jpg" width="700" />
- 
+<div align="center">
+  
   More details will be posted in an official release.
 </div>
 
 * **Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil**
   *  Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water. This structured hydrogen bonding network leads to unique physicochemical features of soil water, such as higher density and viscosity. However, accurately detecting the HB network water in soils remains challenging. In this work, vibrational spectroscopy, i.e., infrared spectroscopy and Raman spectroscopy, is employed to probe pore water structures in soils within a drying-wetting cycle. The obtained spectra are used to quantitatively characterize the water content, density, and viscosity evolution of adsorbed water in soils.
-<div align="center">
+
 <img src="http://Lilj1999.github.io/images/Infrared.jpg" width="800" />
- 
+<div align="center">
   More details will be posted in an official release.
 </div>
 
 * **Molecular simulation of water adsorbed on mineral**
   * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network density of adsorptive water in soils remains challenging. This work aims to utilize molecular simulation to quantitatively characterize the amount and density evolution of adsorbed water in soils within a drying-wetting cycle.
-<div align="center">
-<img src="http://Lilj1999.github.io/images/MD.gif" width="800" />
 
+<img src="http://Lilj1999.github.io/images/MD.gif" width="800" />
+<div align="center">
+  
   The trajectory of water molecules adsorbed on kaolinite and obtained O-O radial distribution function (rdf) in bulk and adsorptive water.   
 </div>
 
